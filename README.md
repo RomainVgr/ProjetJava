@@ -55,3 +55,4 @@ on peut donc considérer que c'est un match nul si aucune combinaison n'a été 
 
 https://github.com/zylfu/ProjetJava/blob/edf700f83c60b543c6c8d10ec9c4cb5a24b4556e/images/Image1.png
 
+![alt text](https://github.com/zylfu/ProjetJava/blob/edf700f83c60b543c6c8d10ec9c4cb5a24b4556e/images/Image1.png"Exemple utilisation")
