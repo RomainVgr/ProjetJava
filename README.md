@@ -52,6 +52,16 @@ Si la variable "caseSelect" (qui s'incrémente lorsqu'un joueur choisit une case
 est égale à la taille de la grille de jeu qui est donc de 9, 
 on peut donc considérer que c'est un match nul si aucune combinaison n'a été trouvé pour l'un des joueurs.
 
+Notice d'utilisation :
+
+* Un message souhaitant la bienvenue.
+* Noms des deux joueurs (Joueur 1(O) et Joueur 2(X) )
+* Un tirage au sort designe lequel des deux joueurs debute la partie au tour 1.
+* Chaque joueur choisit une case(Entre 1 et 9) dans le tableau à tour de rôle.
+* Si aucun des joueurs n'a de combinaisons gangnantes et que la grille est pleine(9 cases), il y a match nul.
+* Si l'une des combinaisons est gagnante pour l'un des joueurs, il gagne.
+
+
 Exemple d'utilisation : 
 
 
