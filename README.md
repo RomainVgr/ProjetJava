@@ -73,7 +73,7 @@ Exemple d'utilisation :
 ![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image6.png "Exemple utilisation")
 
 
-![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image7.png.png "Exemple utilisation")
+![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image7.png "Exemple utilisation")
 
 
 ![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image8.png "Exemple utilisation")
