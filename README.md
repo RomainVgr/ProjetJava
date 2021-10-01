@@ -58,22 +58,22 @@ Exemple d'utilisation :
 ![alt text](https://github.com/zylfu/ProjetJava/blob/edf700f83c60b543c6c8d10ec9c4cb5a24b4556e/images/Image1.png "Exemple utilisation")
 
 
-![alt text](https://github.com/zylfu/ProjetJava/blob/edf700f83c60b543c6c8d10ec9c4cb5a24b4556e/images/Image1.png "Exemple utilisation")
+![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image2.png "Exemple utilisation")
 
 
-![alt text](https://github.com/zylfu/ProjetJava/blob/edf700f83c60b543c6c8d10ec9c4cb5a24b4556e/images/Image1.png "Exemple utilisation")
+![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image3.png "Exemple utilisation")
 
 
-![alt text](https://github.com/zylfu/ProjetJava/blob/edf700f83c60b543c6c8d10ec9c4cb5a24b4556e/images/Image1.png "Exemple utilisation")
+![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image4.png "Exemple utilisation")
 
 
-![alt text](https://github.com/zylfu/ProjetJava/blob/edf700f83c60b543c6c8d10ec9c4cb5a24b4556e/images/Image1.png "Exemple utilisation")
+![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image5.png "Exemple utilisation")
 
 
-![alt text](https://github.com/zylfu/ProjetJava/blob/edf700f83c60b543c6c8d10ec9c4cb5a24b4556e/images/Image1.png "Exemple utilisation")
+![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image6.png "Exemple utilisation")
 
 
-![alt text](https://github.com/zylfu/ProjetJava/blob/edf700f83c60b543c6c8d10ec9c4cb5a24b4556e/images/Image1.png "Exemple utilisation")
+![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image7.png.png "Exemple utilisation")
 
 
-![alt text](https://github.com/zylfu/ProjetJava/blob/edf700f83c60b543c6c8d10ec9c4cb5a24b4556e/images/Image1.png "Exemple utilisation")
+![alt text](https://github.com/zylfu/ProjetJava/blob/734d2537c5800c3b85f50043d0969c0217f9caa2/images/image8.png "Exemple utilisation")
