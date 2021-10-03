@@ -65,5 +65,14 @@ Notice d'utilisation :
 Exemple d'utilisation : 
 
 
-![alt text](https://github.com/zylfu/ProjetJava/blob/31488abfcead8307d678a3e431283960b65101e4/images/image1.png "Exemple utilisation")
+![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image1.png "Exemple utilisation")
 
+![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image2.bmp "Exemple utilisation")
+
+![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image3.bmp "Exemple utilisation")
+
+![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image4.bmp "Exemple utilisation")
+
+![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image5.bmp "Exemple utilisation")
+
+![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image6.bmp "Exemple utilisation")
