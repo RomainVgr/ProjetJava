@@ -27,14 +27,15 @@ On affiche la grille, et le joueur en cours choisit (avec la variable choix) un 
 
 On effectue des vérifications:
 
-- Si la case choisit apparait bien dans notre plateau de jeu.
-- Si la case choisie n'a pas déjà été choisit par un autre joueur.
+*g Si la case choisit apparait bien dans notre plateau de jeu.
+*g Si la case choisie n'a pas déjà été choisit par un autre joueur.
 
 Lorsque ces vérifications ont été faites, on peut donc stockée notre choix à la case correspondante (X ou O)
 
 
 Après l'ajout d'une case , on rentre dans une méthode gagnantPartie.
 
+Vérification Victoire d'un joueur
 Cette methode consiste à vérifier si l'un des deux joueurs (O ou X) 
 à l'une des combinaisons gagnantes qui sont stockées dans un tableaux à deux dimensions.
 
@@ -44,8 +45,7 @@ on vérifie si l'un des deux joueurs possèdent l'une des combinaisons disponibl
 Si c'est le cas pour l'un d'eux , on retourne donc le gagnant de la partie dans une variable "gagnant" et on casse la boucle.
 
 
-
-Si la variable gagnant reste toujours à nulle après vérification, on redémarre 
+Si la variable gagnant reste toujours à nulle après vérification pour les joueurs O et X, on redémarre 
 donc la boucle par la suite avec cette fois si 
 une condition permettant de changer de joueur entre chaque tour de jeu.
 ( avec l'incrémantation d'un tour de jeu + l'ajout 
@@ -55,17 +55,17 @@ Si la variable "caseSelect" (qui s'incrémente lorsqu'un joueur choisit une case
 est égale à la taille de la grille de jeu qui est donc de 9, 
 on peut donc considérer que c'est un match nul si aucune combinaison n'a été trouvé pour l'un des joueurs.
 
-Notice d'utilisation :
+#Notice d'utilisation
 
-* Un message souhaitant la bienvenue.
-* Noms des deux joueurs (Joueur 1(O) et Joueur 2(X) )
-* Un tirage au sort designe lequel des deux joueurs debute la partie au tour 1.
-* Chaque joueur choisit une case(Entre 1 et 9) dans le tableau à tour de rôle.
-* Si aucun des joueurs n'a de combinaisons gangnantes et que la grille est pleine(9 cases), il y a match nul.
-* Si l'une des combinaisons est gagnante pour l'un des joueurs, il gagne.
+1. Un message souhaitant la bienvenue.
+2. Noms des deux joueurs (Joueur 1(O) et Joueur 2(X) )
+3. Un tirage au sort designe lequel des deux joueurs debute la partie au tour 1.
+4. Chaque joueur choisit une case(Entre 1 et 9) dans le tableau à tour de rôle.
+5. Si aucun des joueurs n'a de combinaisons gangnantes et que la grille est pleine(9 cases), il y a match nul.
+6. Si l'une des combinaisons est gagnante pour l'un des joueurs, il gagne.
 
 
-Exemple d'utilisation : 
+#Exemple d'utilisation 
 
 
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image1.png "Saisie des noms")
