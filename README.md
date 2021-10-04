@@ -13,16 +13,14 @@ Si la grille est complétée sans vainqueur, il y a alors égalité.
 Dans mon programme, on initialise tout d'abord une grille vide à l'aide d'un tableau en char et chaque case correspondant à
 un caractère en particulier ('1', '2, '3' ...... jusqu'à '9'). 
 
-
+## Initialisation des joueurs
 
 On demande tout d'abord aux deux joueurs de mettre leur noms. (Joueur1 et Joueur2) qui auront chacun un type de signe(O ou X)
 Ensuite, on tire au sort qui de l'un des deux joueurs debutera la partie au tour numéro 1.
  Le joueur choisi devient donc le joueur en cours qui est donc aussi une variable avec la valeur du jo ou jx.
 
-(On entre donc dans la boucle de jeu)
-
 ## Premier tour de jeu 
-On affiche la grille, et le joueur en cours choisit (avec la variable choix) un nombre compris entre 1 et 9 qui sera donc stockée dans une variable jeton qui permettra de choisir un index du tableau [grille].
+On entre dans une boucle, on affiche la grille, et le joueur en cours choisit (avec la variable choix) un nombre compris entre 1 et 9 qui sera donc stocké dans une variable jeton qui permettra de choisir un index du tableau [grille].
 
 On effectue des vérifications:
 
@@ -30,7 +28,6 @@ On effectue des vérifications:
 * Si la case choisie n'a pas déjà été choisit par un autre joueur.
 
 Lorsque ces vérifications ont été faites, on peut donc stockée notre choix à la case correspondante (X ou O)
-
 
 
 ## Vérification victoire ou non d'un joueur
