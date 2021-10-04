@@ -36,11 +36,10 @@ Après l'ajout d'une case , on rentre dans une méthode gagnantPartie.
 Cette méthode consiste à vérifier si l'un des deux joueurs (O ou X) 
 à l'une des combinaisons gagnantes qui sont stockées dans un tableaux à deux dimensions.
 
-
 * Conditions si gagnant
 
 On parcourt donc le tableau pour chaque joueur et 
-on vérifie si l'un des deux joueurs possèdent l'une des combinaisons disponibles.
+on vérifie si l'un des deux joueurs possède l'une des combinaisons disponibles.
 Si c'est le cas pour l'un d'eux , on retourne donc le gagnant de la partie dans une variable "gagnant" et on casse la boucle.
 
 Si la variable gagnant reste toujours à nulle après vérification pour les joueurs O et X, on redémarre 
@@ -53,7 +52,7 @@ d'une case selectionnée dans une variable (caseSelect) sur les 9 cases disponib
 
 Si la variable "caseSelect" (qui s'incrémente lorsqu'un joueur choisit une case) 
 est égale à la taille de la grille de jeu qui est donc de 9, 
-on peut donc considérer que c'est un match nul si aucune combinaison n'a été trouvé pour l'un des joueurs.
+on peut donc considérer que c'est un match nul si aucune combinaison n'a été trouvée pour l'un des joueurs.
 
 
 
