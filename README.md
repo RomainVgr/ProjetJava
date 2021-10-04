@@ -69,20 +69,20 @@ on peut donc considérer que c'est un match nul si aucune combinaison n'a été 
 
 # Exemple d'utilisation 
 
-* Saisie des noms
+## Saisie des noms
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image1.png "Saisie des noms")
 
-* Choix d'une case
+## Choix d'une case
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image2.bmp "Choix d'une case")
 
-* Ajout case dans le tableau
+## Ajout case dans le tableau
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image3.bmp "Ajout case dans le tableau")
 
-Case déjà choisie par un autre joueur
+## Case déjà choisie par un autre joueur
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image4.bmp "Case déjà choisie par un autre joueur")
 
-Victoire d'un joueur
+## Victoire d'un joueur
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image5.bmp "Victoire joueur")
 
-Cas d'un match nul
+## Cas d'un match nul
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image6.bmp "Match Nul")
