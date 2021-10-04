@@ -8,9 +8,6 @@ Quand l’un des joueurs à aligner 3 symboles horizontalement, verticalement ou
 Si la grille est complétée sans vainqueur, il y a alors égalité.
 
 
-Programme codé en JAVA : 
-
-
 ## Initialisation du tableau
 
 Dans mon programme, on initialise tout d'abord une grille vide à l'aide d'un tableau en char et chaque case correspondant à
