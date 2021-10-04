@@ -9,6 +9,9 @@ Chaque joueur à donc son propre symbole, généralement une croix pour l’un e
 
 Programme codé en JAVA : 
 
+
+# Initialisation du tableau
+
 Dans mon programme, on initialise tout d'abord une grille vide à l'aide d'un tableau en char et chaque case correspondant à
 un caractère en particulier ('1', '2, '3' ...... jusqu'à '9'). 
 
@@ -19,7 +22,7 @@ Ensuite, on tire au sort qui de l'un des deux joueurs debutera la partie au tour
 
 (On entre donc dans la boucle de jeu)
 
-Premier tour de jeu : 
+# Premier tour de jeu 
 On affiche la grille, et le joueur en cours choisit (avec la variable choix) un nombre compris entre 1 et 9 qui sera donc stockée dans une variable jeton qui permettra de choisir un index du tableau [grille].
 
 On effectue des vérifications:
