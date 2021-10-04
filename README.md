@@ -2,7 +2,7 @@
 
 L'application réalisée est un jeu du Morpion.
 
-Principe et règles du jeu : 
+# Principe et règles du jeu  
 Chaque joueur à donc son propre symbole, généralement une croix pour l’un et un rond pour l’autre.
 Quand l’un des joueurs à aligner 3 symboles horizontalement, verticalement ou en diagonale, il gagne la partie. 
 Si la grille est complétée sans vainqueur, il y a alors égalité.
@@ -36,27 +36,32 @@ Lorsque ces vérifications ont été faites, on peut donc stockée notre choix �
 
 
 
-#Vérification victoire d'un joueur
+## Vérification victoire ou non d'un joueur
 Après l'ajout d'une case , on rentre dans une méthode gagnantPartie.
 
 Cette méthode consiste à vérifier si l'un des deux joueurs (O ou X) 
 à l'une des combinaisons gagnantes qui sont stockées dans un tableaux à deux dimensions.
 
+
+* Conditions si gagnant
+
 On parcourt donc le tableau pour chaque joueur et 
 on vérifie si l'un des deux joueurs possèdent l'une des combinaisons disponibles.
-
 Si c'est le cas pour l'un d'eux , on retourne donc le gagnant de la partie dans une variable "gagnant" et on casse la boucle.
-
 
 Si la variable gagnant reste toujours à nulle après vérification pour les joueurs O et X, on redémarre 
 donc la boucle par la suite avec cette fois si 
 une condition permettant de changer de joueur entre chaque tour de jeu.
-( avec l'incrémantation d'un tour de jeu + l'ajout 
-d'une case selectionné dans une variable (caseSelect) sur les 9 disponibles). 
+(avec l'incrémantation d'un tour de jeu + l'ajout 
+d'une case selectionnée dans une variable (caseSelect) sur les 9 cases disponibles). 
+
+* Conditions si match nul
 
 Si la variable "caseSelect" (qui s'incrémente lorsqu'un joueur choisit une case) 
 est égale à la taille de la grille de jeu qui est donc de 9, 
 on peut donc considérer que c'est un match nul si aucune combinaison n'a été trouvé pour l'un des joueurs.
+
+
 
 # Notice d'utilisation
 
@@ -68,7 +73,7 @@ on peut donc considérer que c'est un match nul si aucune combinaison n'a été 
 6. Si l'une des combinaisons est gagnante pour l'un des joueurs, il gagne.
 
 
-#Exemple d'utilisation 
+# Exemple d'utilisation 
 
 
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image1.png "Saisie des noms")
