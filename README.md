@@ -61,7 +61,7 @@ on peut donc considérer que c'est un match nul si aucune combinaison n'a été 
 
 1. Un message souhaitant la bienvenue.
 2. Noms des deux joueurs (Joueur 1(O) et Joueur 2(X) )
-3. Un tirage au sort designe lequel des deux joueurs debute la partie au tour 1.
+3. Un tirage au sort désigne lequel des deux joueurs débute la partie au tour 1.
 4. Chaque joueur choisit une case(Entre 1 et 9) dans le tableau à tour de rôle.
 5. Si aucun des joueurs n'a de combinaisons gangnantes et que la grille est pleine(9 cases), il y a match nul.
 6. Si l'une des combinaisons est gagnante pour l'un des joueurs, il gagne.
@@ -69,15 +69,20 @@ on peut donc considérer que c'est un match nul si aucune combinaison n'a été 
 
 # Exemple d'utilisation 
 
-
+* Saisie des noms
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image1.png "Saisie des noms")
 
+* Choix d'une case
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image2.bmp "Choix d'une case")
 
+* Ajout case dans le tableau
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image3.bmp "Ajout case dans le tableau")
 
+Case déjà choisie par un autre joueur
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image4.bmp "Case déjà choisie par un autre joueur")
 
+Victoire d'un joueur
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image5.bmp "Victoire joueur")
 
+Cas d'un match nul
 ![alt text](https://github.com/zylfu/ProjetJava/blob/72bf69b72380b27233dc22a015582d063999b39f/images/image6.bmp "Match Nul")
