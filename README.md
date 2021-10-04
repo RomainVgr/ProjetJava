@@ -2,11 +2,12 @@
 
 L'application réalisée est un jeu du Morpion.
 
-# Principe et règles du jeu  
+# Description du jeu 
 Chaque joueur à donc son propre symbole, généralement une croix pour l’un et un rond pour l’autre.
 Quand l’un des joueurs à aligner 3 symboles horizontalement, verticalement ou en diagonale, il gagne la partie. 
 Si la grille est complétée sans vainqueur, il y a alors égalité.
 
+# Description de l’implémentation technique du jeu
 
 ## Initialisation du tableau
 
